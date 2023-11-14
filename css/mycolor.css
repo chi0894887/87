@@ -1,0 +1,24 @@
+
+:root{
+    --colorblue01: #bee6fd;
+    --colorblue02: #9cdcfe;
+    --colorblue03: #87c6fc;
+    --colorblue04: #6cb1f5;
+    --colorblue05: #87CEFA;
+    --colorpink01: #FFC0CB;
+    --colorpink02: #ffbbdd;
+    --colorpink03: #ffb7b7;
+    --colorpink04:#FFE4E1;
+    --colorpink05:#FFE8E8;
+    --colorpink06:#FFD4D4;	
+    --mycolor01:  #b2b2b2;
+    --mycolor02:  #888888;
+    --mycolor03:  #363435;
+    --colorgreen01:#b8e9a7;
+    --colorgreen02:#B7DDE0;
+    --colorgreen03:#9EDAE3;
+    --colorgreen04:#65C4D8;
+    }
+    .bg-cover{
+        background-position: center center;
+        background-size: cover;}
